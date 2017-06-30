@@ -5,7 +5,7 @@ A seguir os pocedimentos para usar a Placa TON com o compilador online do mbed.
 
 ## **O que é necessário previamente:**
 1. Clique neste [link](https://developer.mbed.org/platforms/Seeed-Arch-Max/add/) para criar uma conta no *mbed compliler* e adicionar a *platform - Seeed Arch Max* (possui o mesmo microcontrolador da Placa TON).
-2. O UPLOAD para a placa tem que ser manual, para isto é necessário baixar e descompactar este [repositório]((https://github.com/iotontech/ioton-mbed-online/archive/master.zip)).
+2. O UPLOAD para a placa tem que ser manual, para isto é necessário baixar e descompactar este [repositório](https://github.com/iotontech/ioton-mbed-online/archive/master.zip).
 
 
 ## **Passo a passo de utilização:**
