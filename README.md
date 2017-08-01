@@ -6,6 +6,12 @@ A seguir os pocedimentos para usar a Placa TON com o compilador online do mbed.
 ## **O que é necessário previamente:**
 1. Clique neste [link](https://developer.mbed.org/platforms/Seeed-Arch-Max/add/) para criar uma conta no *mbed compliler* e adicionar a *platform - Seeed Arch Max* (possui o mesmo microcontrolador da Placa TON).
 2. O UPLOAD para a placa tem que ser manual, para isto é necessário baixar e descompactar este [repositório](https://github.com/iotontech/ioton-mbed-online/archive/master.zip).
+3. Em algumas versões do **Windows** o driver instalado automaticamente não compatível. Para instalar o driver correto, favor realizar os seguintes passos:
+    * Baixar o software Zadig: http://zadig.akeo.ie/
+    * Colocar a Placa TON em modo UPLOAD (pressionando o botão *RESET/BOOT* por mais de 1s)
+    * Abrir o Zadig e selecionar: *Options > List All Devices*
+    * Selecionar *STM32 Bootloader* ou *WinUSB*
+    * Clicar em *“replace driver”* ou *“install driver”*
 
 
 ## **Passo a passo de utilização:**
